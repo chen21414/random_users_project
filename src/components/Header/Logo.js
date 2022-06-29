@@ -10,7 +10,7 @@ const Logo = () => {
       <img
         src={ImageOne}
         alt="robert"
-        className="h-11 rounded shadow cursor-pointer"
+        className="h-11 w-20 rounded shadow cursor-pointer"
       />
     </div>
   );
